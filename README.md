@@ -11,4 +11,10 @@
 + re
 + PIL
  ## 运行结果
- ![]
+ ![英文词云](https://github.com/liuxl96/wordcloud/blob/main/example_pic/en.png?raw=true)
+
+![中文词云](https://github.com/liuxl96/wordcloud/blob/main/example_pic/ch.png?raw=true)
+
+![中文词云-去除停留词](https://github.com/liuxl96/wordcloud/blob/main/example_pic/chStop.png?raw=true)
+
+![小马形状词云](https://github.com/liuxl96/wordcloud/blob/main/example_pic/shape.png?raw=true)
